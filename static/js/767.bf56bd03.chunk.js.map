@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/767.bf56bd03.chunk.js","mappings":"qIAUA,UARA,WACE,OACE,0BACE","sources":["Pages/Login/index.js"],"sourcesContent":["import React from 'react';\r\n\r\nfunction Login() {\r\n  return (\r\n    <div>\r\n      <h1>Login Page</h1>\r\n    </div>\r\n  );\r\n}\r\n\r\nexport default Login;\r\n"],"names":[],"sourceRoot":""}

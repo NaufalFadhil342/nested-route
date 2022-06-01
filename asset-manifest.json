@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/nested-route/static/css/main.7c690c16.css",
+    "main.js": "/nested-route/static/js/main.acd69d7b.js",
+    "static/js/106.89b3be4f.chunk.js": "/nested-route/static/js/106.89b3be4f.chunk.js",
+    "static/js/655.b0b59973.chunk.js": "/nested-route/static/js/655.b0b59973.chunk.js",
+    "static/js/767.bf56bd03.chunk.js": "/nested-route/static/js/767.bf56bd03.chunk.js",
+    "static/js/787.bb1c69dc.chunk.js": "/nested-route/static/js/787.bb1c69dc.chunk.js",
+    "index.html": "/nested-route/index.html",
+    "main.7c690c16.css.map": "/nested-route/static/css/main.7c690c16.css.map",
+    "main.acd69d7b.js.map": "/nested-route/static/js/main.acd69d7b.js.map",
+    "106.89b3be4f.chunk.js.map": "/nested-route/static/js/106.89b3be4f.chunk.js.map",
+    "655.b0b59973.chunk.js.map": "/nested-route/static/js/655.b0b59973.chunk.js.map",
+    "767.bf56bd03.chunk.js.map": "/nested-route/static/js/767.bf56bd03.chunk.js.map",
+    "787.bb1c69dc.chunk.js.map": "/nested-route/static/js/787.bb1c69dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c690c16.css",
+    "static/js/main.acd69d7b.js"
+  ]
+}
